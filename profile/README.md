@@ -1,12 +1,34 @@
-## Hi there 👋
+### 注意事項
+1. 若有任何原始程序代碼內部的錯誤，請聯繫原始開發者。  
 
-<!--
+### 軟體儲存庫授權策略聲明
 
-**Here are some ideas to get you started:**
+本聲明旨在明確我方軟體儲存庫的授權政策，確保使用者清楚了解各種儲存庫使用和分發的相關條件。本政策分為私人儲存庫和公開儲存庫兩部分，具體內容如下：
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### 1. 私人儲存庫授權
+
+對於所有私人儲存庫，除非另有明確授權聲明，否則版權所有者保留一切權利。未經版權所有者明確的書面同意，任何人不得複製、修改、發布、傳播、分發、執行、展示或使用這些儲存庫中的內容。這些內容被視為版權所有者的專有資訊和知識產權。
+
+#### 2. 公開儲存庫授權
+
+1. 除非特別指明，所有公開儲存庫默認採用GNU General Public License v3.0 (GPL-3.0)授權。根據GPL-3.0許可證的條款，任何人都被允許複製、修改和重新分發在這些公開儲存庫中的代碼，條件是所有修改和衍生作品同樣必須在GPL-3.0許可證下開源。[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)  
+2. 開發者授權自由：
+    - 對於所有公開儲存庫，我們鼓勵並支持開發者自行選擇適合其代碼的授權條款。這意味著每位貢獻者都有權力為其貢獻的代碼選擇一種開源授權，以促進代碼的共享和再利用，同時尊重創作者的意願。
+    - 貢獻者對其原創貢獻享有選擇授權條款的自由。這旨在鼓勵創新並尊重貢獻者的版權，使他們能夠根據個人或組織的需求自由選擇授權方式。
+3. 開發者授權保留：
+    - 儘管貢獻者享有選擇授權的自由，但為了確保代碼庫的整體可維護性和一致性，我們保留對所有貢獻進行必要編輯或更改的權利。這不意味著更改貢獻者原意的授權條款，而是為了保證代碼庫作為一個整體的功能性和安全性。
+4. 保障和責任：
+    - 我們將盡力確保所有貢獻都遵守其指定的授權條款，並在必要時提供適當的標註和認可。然而，貢獻者應確保其貢獻不侵犯他人的版權或其他權利，並承擔因其貢獻所引起的任何法律責任。
+  
+### 免責聲明
+
+本Discord機器人（以下簡稱「本機器人」）僅供娛樂和資訊共享之用途，不擔保其內容的準確性、完整性或實用性。本機器人的開發者、維護者或任何相關方均不承擔因使用本機器人或依賴其提供的資訊所導致的任何形式的直接或間接損害責任。
+
+使用者明確了解並同意，對於由於使用本機器人或無法使用本機器人，以及由此產生的任何數據損失或損害，包括但不限於通過本機器人發送或接收的訊息所引起的損失或損害，本機器人的開發者或維護者不負任何責任。
+
+使用本機器人即表示您理解並同意本免責聲明的所有條款。若您不同意上述條款，請勿使用本機器人。我們保留隨時修改本免責聲明的權利，並建議使用者定期查看此聲明以了解可能的變更。
+
+### 私有儲存庫及未明確版權代碼的版權聲明
+
+- Copyright © 2024 ErrorBase. All rights reserved.
+- 未經版權所有者明確的書面同意，禁止複製、修改、發布、傳播、分發、執行、展示此聲明中提及的任何內容。
