@@ -30,5 +30,5 @@
 
 ### 私有儲存庫及未明確版權代碼的版權聲明
 
-- Copyright © 2024 ErrorBase. All rights reserved.
+- Copyright © 2023-2024 HarutoStudio. All rights reserved.
 - 未經版權所有者明確的書面同意，禁止複製、修改、發布、傳播、分發、執行、展示此聲明中提及的任何內容。
