@@ -1,3 +1,29 @@
+## 特別感謝（名單順序不代表貢獻程度）
+### 首頁開發
+- tbk_lteaa
+- imacheng
+- aka_flybear
+
+### 設計團隊
+- .josh0324
+- tbk_lteaa
+
+### 技術支援
+- final_9.30_percent
+- aka_flybear
+
+### 社群貢獻
+- lulumi_0930
+- hi90865
+
+### 社群支持
+- xiaorui1206
+- HightPingStore
+- imacheng
+- tbk_lteaa
+
+以上名單如有疏漏或需調整請立即向負責人連絡
+
 ## 服務條款
 nekoHaru (以下簡稱為本服務) 專為 Discord 公會設計，任何 Discord 用戶均可在公會中使用本服務的功能。  
 
